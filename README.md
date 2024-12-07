@@ -24,5 +24,7 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-hussan&show_icons=true)  
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kabir-hussan/contributions?format=svg&private=false)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kabir-hussan)  
 
